@@ -1,0 +1,5 @@
+Customer_Type,Customer_Count,Mean_Recency,Mean_Frequency,Mean_Monetary,Recommended_Action
+At-Risk High-Value Customers,311,270.06,1.0,321.51,"Launch personalised win-back campaigns, limited-time offers and recommendations based on previous purchases."
+Champions,368,85.34,1.0,317.2,"Provide VIP rewards, exclusive discounts, early product access and referral incentives."
+Loyal Customers,404,77.15,1.0,107.23,"Offer loyalty points, membership benefits, personalised recommendations and cross-selling offers."
+Regular Customers,371,263.87,1.0,114.34,"Promote product bundles, seasonal campaigns and incentives that encourage more frequent purchases."
